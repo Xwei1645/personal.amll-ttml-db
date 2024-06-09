@@ -4,8 +4,8 @@
 本仓库为仅供私人测试的 [AMLL](https://github.com/Steve-xmh/applemusic-like-lyrics) TTML 歌词库.
 
 ## 关于 [AMLL](https://github.com/Steve-xmh/applemusic-like-lyrics)
-![Apple Music-like Lyrics](https://github.com/Steve-xmh/applemusic-like-lyrics/tree/main/packages/bncm/src/assets/amll-icon.svg)
-
+![](https://github.com/Steve-xmh/applemusic-like-lyrics/tree/main/packages/bncm/src/assets/amll-icon.svg)
+### Apple Music-like Lyrics
 一个基于 Web 技术制作的类 Apple Music 歌词显示组件库，同时支持[ DOM 原生](./packages/core/README.md)、[React ](./packages/react/README.md)和[ Vue ](./packages/react/README.md)绑定.
 
 ## 🔗其他🔗
